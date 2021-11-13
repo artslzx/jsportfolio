@@ -7,7 +7,7 @@ const Footer = () => (
     <Container className="container">
       <div className="row v-align-center">
         <div className="col col-6 center-text tablet-align-text-left">
-          <h2 className="navbar-title">Artak</h2>
+          <h2 className="navbar-title">Art</h2>
         </div>
         <div className="col col-6 center-text tablet-align-text-left">
           <div className="row mobile align-center tablet-align-right">

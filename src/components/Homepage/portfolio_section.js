@@ -8,7 +8,7 @@ const PortfolioSection = () => (
       <h2 className="title">Contact</h2>
       <div className="row">
         <div className="col ">
-        <p className="subtitle">If you are looking to get ahold of me, you can send me an email at artakgyoletsyan@gmail.com</p>
+        <p className="subtitle">If you are looking to get ahold of me, you can send me an email at @email</p>
           {/* <PortfolioWrapper>
             <a
               href="https://caltrack.netlify.com"
